@@ -5,7 +5,7 @@ def name
 end
 
 def birthdate
-	birthdate = Date.new(1990, 12, 22)
+	birthdate = Date.new(1980, 8, 10)
 end
 
 def countdown
